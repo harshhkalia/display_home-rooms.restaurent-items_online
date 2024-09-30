@@ -1,0 +1,129 @@
+#ItemsSBContainer {
+  position: relative;
+  width: 245px;
+  height: 815px;
+  bottom: 29px;
+  background-color: transparent;
+  border: 0.5px solid gray;
+}
+
+#noResItems {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  color: black;
+  top: 340px;
+}
+
+#resItemContainer {
+  position: relative;
+  width: 223px;
+  height: 783px;
+  background-color: black;
+  border-radius: 4px;
+  left: 10px;
+  top: -9px;
+}
+
+#fetchedItemCategoryName {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.5em;
+  color: white;
+  text-align: center;
+  top: 8px;
+}
+
+#fetchedCategoryADDtime {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 0.9em;
+  color: white;
+  text-align: center;
+  top: -13px;
+}
+
+#itemsSL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: white;
+  bottom: 22px;
+}
+
+#noRestaurentItemAvailable {
+  position: relative;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  text-align: center;
+  top: 208px;
+}
+
+#subItemHeading {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 0.9em;
+  color: white;
+  left: 14px;
+  top: -28px;
+}
+
+#fetchedSubItemsContainer {
+  position: relative;
+  width: 196px;
+  height: 671px;
+  background-color: transparent;
+  bottom: 34px;
+  left: 13px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#fetchedSubitemBackground {
+  position: relative;
+  width: 180px;
+  height: 55px;
+  background-color: lightgoldenrodyellow;
+  cursor: pointer;
+  border-radius: 4px;
+  overflow: hidden;
+  top: 4px;
+  margin-bottom: 10px;
+}
+
+#fetchedSubItemImage {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+  border: 0.6px solid black;
+  border-radius: 4px;
+  left: 7px;
+  top: 4px;
+}
+
+#fetchedSubItemName {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 65px;
+  left: 60px;
+}
+
+#moreDetailsLine {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  bottom: 69px;
+  left: 95px;
+}

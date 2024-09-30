@@ -1,0 +1,512 @@
+#editProfileContainer {
+  position: relative;
+  width: 398px;
+  height: 157px;
+  background-color: lightgrey;
+  bottom: 725px;
+  left: 593px;
+  border: 0.5px solid black;
+  border-radius: 10px;
+}
+
+#EPcontainerText {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.3em;
+  color: black;
+  text-align: center;
+  top: -19px;
+}
+
+#EPCSL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  top: -38px;
+}
+
+#customerFullnameHead {
+  position: relative;
+  left: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.4em;
+  color: black;
+  bottom: 59px;
+}
+
+#customerFullname {
+  position: relative;
+  left: 19px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 85px;
+}
+
+#customerUsernameHead {
+  position: relative;
+  left: 19px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.4em;
+  color: black;
+  bottom: 99px;
+}
+
+#customerUsername {
+  position: relative;
+  left: 19px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 123px;
+}
+
+#customerEditProfileBtn {
+  position: relative;
+  padding: 8px 28px;
+  border-radius: 6px;
+  background-color: lightgoldenrodyellow;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  bottom: 218px;
+  left: 262px;
+  cursor: pointer;
+}
+
+#customerDeleteProfileBtn {
+  position: relative;
+  padding: 8px 21px;
+  border-radius: 6px;
+  background-color: lightcoral;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  bottom: 174px;
+  left: 138px;
+  cursor: pointer;
+}
+
+#newDetailsContainer {
+  position: relative;
+  width: 497px;
+  height: 183px;
+  background-color: lightgray;
+  bottom: 654px;
+  left: 549px;
+  border: 0.5px solid black;
+  border-radius: 10px;
+}
+
+#newDetailsContainerText {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.3em;
+  color: black;
+  text-align: center;
+  top: -17px;
+}
+
+#NDCSL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  top: -36px;
+}
+
+#NDCnewName {
+  position: relative;
+  left: 14px;
+  padding: 6px 30px;
+  border-radius: 6px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  bottom: 22px;
+}
+
+#NDCnewUsername {
+  position: relative;
+  left: 66px;
+  padding: 6px 30px;
+  border-radius: 6px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  bottom: 22px;
+}
+
+#NDCnewPassword {
+  position: relative;
+  left: 14px;
+  padding: 6px 160px;
+  border-radius: 6px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  bottom: 8px;
+}
+
+#NDconfirmButton {
+  position: relative;
+  padding: 7px 55px;
+  border-radius: 6px;
+  background-color: lightgoldenrodyellow;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  bottom: -5px;
+  left: 21px;
+  cursor: pointer;
+}
+
+#NDcancelButton {
+  position: relative;
+  padding: 7px 55px;
+  border-radius: 6px;
+  background-color: lightcoral;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  bottom: -5px;
+  left: 44px;
+  cursor: pointer;
+}
+
+#SuccessMessageNewCustomer {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  text-align: center;
+  top: 36px;
+}
+
+#defaultMessageNewCustomer {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  top: -130px;
+  left: 6px;
+}
+
+#transactionPageContainer {
+  position: relative;
+  width: 415px;
+  height: 367px;
+  background-color: lightgrey;
+  bottom: 675px;
+  left: 632px;
+  border: 0.5px solid black;
+  border-radius: 10px;
+}
+
+#transactionPageContainerText {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 10px;
+  top: -15px;
+}
+
+#transactionPageContainerSL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  top: -30px;
+}
+
+#transactionContainerOneHead {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2em;
+  color: black;
+  top: 9px;
+}
+
+#transactionContainerTwoHead {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2em;
+  color: black;
+  top: -4px;
+}
+
+#transactionPageContainerSLL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  top: 45px;
+}
+
+#transactionPageContainerTextOne {
+  position: relative;
+  font-size: 1.1em;
+  color: black;
+  left: 10px;
+  top: 29px;
+}
+
+#transactionItemsContainer {
+  position: relative;
+  width: 348px;
+  height: 218px;
+  background-color: white;
+  left: 15px;
+  border-radius: 10px;
+  top: 16px;
+  border: 0.5px solid lightslategray;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.recentItem {
+  position: relative;
+  width: 145px;
+  height: 181px;
+  background-color: black;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+#recentItemImage {
+  position: relative;
+  width: 145px;
+  height: 125px;
+  cursor: pointer;
+  object-fit: cover;
+}
+
+#recentItemLowerContainer {
+  position: relative;
+  width: 145px;
+  height: 56px;
+  background-color: transparent;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  bottom: 4px;
+  border-radius: 1px;
+}
+
+#loadingRecentItemData {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: white;
+  text-align: center;
+  top: 10px;
+}
+
+#recentItemName {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: white;
+  left: 10px;
+  top: -12px;
+}
+
+#recentItemRestaurentName {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: white;
+  left: 10px;
+  top: -30px;
+}
+
+#recentItemPrice {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: white;
+  bottom: 49px;
+}
+
+#orderAgainHead {
+  position: relative;
+  left: 72px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.7em;
+  color: white;
+  bottom: 77px;
+  cursor: pointer;
+}
+
+#orderAgainModal {
+  position: relative;
+  width: 400px;
+  height: 300px;
+  background-color: white;
+  border-radius: 10px;
+  border: 0.5px solid black;
+  left: 40px;
+}
+
+#orderAgainModalImage {
+  position: relative;
+  width: 200px;
+  height: 282px;
+  object-fit: cover;
+  border-radius: 10px;
+  left: 9px;
+  top: 8px;
+  border: 0.6px solid lightgrey;
+  cursor: pointer;
+}
+
+#OAContainer {
+  position: relative;
+  width: 165px;
+  height: 279px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  border: 0.5px solid black;
+  left: 224px;
+  bottom: 278px;
+}
+
+#OAINcontainer {
+  position: relative;
+  width: 165px;
+  height: 41px;
+  background-color: transparent;
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+
+#OAINitemName {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  left: 10px;
+  top: -11px;
+}
+
+#OASL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  top: -1px;
+}
+
+#OACusNameInput {
+  position: relative;
+  left: 7px;
+  padding: 5px 2px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  top: 12px;
+  text-indent: 9px;
+}
+
+#OACusPhoneInput {
+  position: relative;
+  left: 7px;
+  padding: 5px 2px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  top: 23px;
+  text-indent: 9px;
+}
+
+#OAItemQuantity {
+  position: relative;
+  left: 7px;
+  padding: 5px 2px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  top: 34px;
+  text-indent: 9px;
+}
+
+#OAcusAddressInput {
+  position: relative;
+  left: 9px;
+  padding: 15px 0px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  top: 45px;
+  text-indent: 9px;
+  width: 147px;
+}
+
+#OAplaceOrderBtn {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: white;
+  left: 14px;
+  top: 49px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#OAcancelOrderBtn {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: lightcoral;
+  left: 35px;
+  top: 49px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#successStatusModal {
+  position: relative;
+  width: 400px;
+  height: 186px;
+  background-color: white;
+  border-radius: 10px;
+  border: 0.5px solid black;
+}
+
+#successStatusModalText {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  top: -17px;
+}
+
+#successStatusBackground {
+  position: relative;
+  left: 10px;
+  width: 377px;
+  height: 97px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  top: -30px;
+  border: 0.6px solid black;
+}
+
+#successStatusText {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 6px;
+  top: -12px;
+}
+
+#closeSuccessStatusModalBtn {
+  position: relative;
+  padding: 9px 164px;
+  border-radius: 6px;
+  background-color: lightcoral;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  left: 19px;
+  bottom: 19px;
+  cursor: pointer;
+}

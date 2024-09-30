@@ -1,0 +1,152 @@
+#restaurentDetailsContainer {
+  position: relative;
+  width: 200px;
+  height: 195px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  border: 0.5px solid black;
+  left: 22px;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  top: 37px;
+}
+
+#restaurentDetailsHeading {
+  position: relative;
+  bottom: 205px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  left: 13px;
+}
+
+#noDetailsOfRes {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  color: black;
+  top: 52px;
+  font-size: 1.3em;
+}
+
+#resDetailsImg {
+  position: relative;
+  border-radius: 4px;
+  object-fit: cover;
+  width: 174px;
+  height: 100px;
+  border: 0.5px solid black;
+  left: 12px;
+  top: 10px;
+}
+
+#resDetailsResName {
+  position: relative;
+  text-align: center;
+  font-size: 1.1em;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  bottom: 7px;
+}
+
+#resNameLogo {
+  position: relative;
+  margin-left: 2px;
+}
+
+#resDetailsResLocation {
+  position: relative;
+  text-align: center;
+  font-size: 1.1em;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  bottom: 22px;
+}
+
+#resLocationLogo {
+  position: relative;
+  margin-right: 7px;
+}
+
+#itemCategoryBackground {
+  position: relative;
+  background-color: #ccc;
+  width: auto;
+  height: 27px;
+  bottom: 32px;
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+
+#itemType {
+  position: relative;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  bottom: 16px;
+}
+
+#restaurentItemsHeading {
+  position: relative;
+  bottom: 4px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  left: 13px;
+}
+
+#displayResPurItems {
+  position: relative;
+  width: 200px;
+  height: 481px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  border: 0.5px solid black;
+  left: 22px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  top: -13px;
+}
+
+#navigateRestaurentSelection {
+  position: relative;
+  padding: 6px 58px;
+  background-color: lightgoldenrodyellow;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  cursor: pointer;
+  left: 11px;
+}
+
+#noSubItemDisplayed {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.2em;
+  text-align: center;
+  top: 186px;
+}
+
+#subitemBC {
+  width: 163px;
+  height: 56px;
+  background-color: lightgoldenrodyellow;
+  margin-bottom: 14px;
+  left: 15px;
+  position: relative;
+  top: 14px;
+  border: 0.5px solid darkgray;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#subitemDetails {
+  position: relative;
+  bottom: 69px;
+  font-size: 0.9em;
+  left: 78px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

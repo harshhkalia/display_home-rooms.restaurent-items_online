@@ -1,0 +1,354 @@
+#restPageBC {
+  position: relative;
+  width: 910px;
+  height: 550px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  border: 0.5px solid black;
+  left: 338px;
+  top: 139px;
+}
+
+#restPageHead {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  text-align: center;
+  bottom: 466px;
+  left: 26px;
+}
+
+#searchResInput {
+  position: relative;
+  padding: 10px 3px;
+  width: 340px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  text-indent: 14px;
+  top: 107px;
+  left: 450px;
+}
+
+#searchResButton {
+  position: relative;
+  padding: 10px 7px;
+  background-color: lightyellow;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  cursor: pointer;
+  top: 107px;
+  left: 455px;
+}
+
+#viewOtherVillas {
+  position: relative;
+  padding: 10px 7px;
+  background-color: lightgray;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  cursor: pointer;
+  top: 107px;
+  left: 472px;
+}
+
+#logoutButtonCustomer {
+  position: relative;
+  padding: 10px 7px;
+  background-color: lightcoral;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  cursor: pointer;
+  top: 107px;
+  left: 490px;
+}
+
+#displayRestaurentsContainer {
+  position: relative;
+  width: 888px;
+  height: 529px;
+  background-color: transparent;
+  overflow-x: hidden;
+  overflow-y: auto;
+  left: 10px;
+  top: 10px;
+}
+
+#redirectingAlert {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.2em;
+  color: black;
+  text-align: center;
+  top: 110px;
+  left: 65px;
+}
+
+#restaurentDBG {
+  position: relative;
+  width: 570px;
+  height: 300px;
+  background-color: #ccc;
+  border-radius: 4px;
+  margin-bottom: 27px;
+  left: 165px;
+  top: 17px;
+}
+
+#restaurentFetchedPFP {
+  position: relative;
+  width: 260px;
+  height: 270px;
+  border-radius: 4px;
+  object-fit: cover;
+  left: 14px;
+  top: 12px;
+}
+
+#restaurentFetchedName {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.2em;
+  color: black;
+  text-align: center;
+  bottom: 11px;
+}
+
+#restaurentInformationContainer {
+  position: relative;
+  width: 254px;
+  height: 254px;
+  background-color: #ddd;
+  border-radius: 4px;
+  bottom: 256px;
+  left: 298px;
+  border: 0.5px solid black;
+}
+
+#restaurentFetchedLocation {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.2em;
+  color: black;
+  text-align: center;
+  bottom: 27px;
+}
+
+#locationLogoRes {
+  position: relative;
+  margin-right: 10px;
+}
+
+#restaurentFetchedItemName {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1em;
+  color: black;
+  text-align: center;
+  bottom: 44px;
+}
+
+#restaurentNoItemAdded {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1em;
+  color: black;
+  text-align: center;
+  bottom: 44px;
+}
+
+#furtherIncludeL {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1em;
+  color: black;
+  bottom: 54px;
+  left: 10px;
+}
+
+#subitemDisplayContainer {
+  position: relative;
+  width: 226px;
+  height: 106px;
+  background-color: white;
+  border-radius: 4px;
+  left: 13px;
+  bottom: 62px;
+  border: 0.5px solid darkseagreen;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#subitemFetchedName {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  bottom: 5px;
+}
+
+#exploreRestaurent {
+  position: relative;
+  padding: 4px 52px;
+  background-color: lightyellow;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  cursor: pointer;
+  bottom: 57px;
+  left: 35px;
+}
+
+#searchResModal {
+  position: relative;
+  width: 700px;
+  height: 600px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+#searchResModalHead {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  text-align: center;
+  bottom: 16px;
+}
+
+#closeSearchModal {
+  position: relative;
+  padding: 7px 240px;
+  background-color: lightgoldenrodyellow;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  top: 486px;
+  left: 52px;
+}
+
+#displaySearchedRestaurentsContainer {
+  position: relative;
+  width: 649px;
+  height: 498px;
+  background-color: transparent;
+  bottom: 58px;
+  left: 27px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#noRestaurentFetched {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  top: 187px;
+  font-size: 1.4em;
+}
+
+#fetchedRestaurentDBG {
+  position: relative;
+  width: 570px;
+  height: 300px;
+  background-color: #ccc;
+  border-radius: 4px;
+  margin-bottom: 27px;
+  left: 42px;
+  top: 17px;
+}
+
+#fetchedRestaurentPFP {
+  position: relative;
+  width: 260px;
+  height: 270px;
+  border-radius: 4px;
+  object-fit: cover;
+  left: 14px;
+  top: 12px;
+}
+
+#fetchedRestaurentInformationContainer {
+  position: relative;
+  width: 254px;
+  height: 254px;
+  background-color: #ddd;
+  border-radius: 4px;
+  bottom: 256px;
+  left: 298px;
+  border: 0.5px solid black;
+}
+
+#fetchedRestaurentItemName {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1em;
+  color: black;
+  bottom: 468px;
+  left: 338px;
+}
+
+#fetchedRestaurentFurtherIL {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1em;
+  color: black;
+  bottom: 478px;
+  left: 307px;
+}
+
+#subitemDisplayContainerFR {
+  position: relative;
+  width: 226px;
+  height: 106px;
+  background-color: white;
+  border-radius: 4px;
+  left: 312px;
+  bottom: 488px;
+  border: 0.5px solid darkseagreen;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#exploreRestaurentFR {
+  position: relative;
+  padding: 4px 52px;
+  background-color: lightyellow;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  cursor: pointer;
+  bottom: 481px;
+  left: 335px;
+}
+
+#noMoreRestaurentBelow {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3em;
+  color: black;
+  text-align: center;
+  top: 120px;
+}
+
+#noSubItemFetched {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  color: black;
+  top: 24px;
+}

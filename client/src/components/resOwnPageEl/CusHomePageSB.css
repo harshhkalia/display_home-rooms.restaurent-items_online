@@ -1,0 +1,96 @@
+#CustHomeSBContainer {
+  position: relative;
+  width: 245px;
+  height: 814px;
+  bottom: 29px;
+  background-color: transparent;
+  border: 0.5px solid gray;
+}
+
+#CustHomeSBhead {
+  position: relative;
+  left: 8px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  bottom: 9px;
+}
+
+#CustHomeOHcontainer {
+  position: relative;
+  left: 10px;
+  width: 220px;
+  height: 670px;
+  border: 0.6px solid lightgray;
+  bottom: 19px;
+  border-radius: 7px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#navCusSelHome {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 8px 70px;
+  background-color: lavender;
+  cursor: pointer;
+  border-radius: 5px;
+  left: 9px;
+}
+
+#navCusSelRes {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 8px 59px;
+  background-color: lavenderblush;
+  cursor: pointer;
+  border-radius: 5px;
+  left: 9px;
+  top: 10px;
+}
+
+#SBhomeBG {
+  position: relative;
+  width: 204px;
+  height: 65px;
+  background-color: black;
+  border-radius: 5px;
+  left: 8px;
+  margin-bottom: 17px;
+  top: 9px;
+  cursor: pointer;
+}
+
+#locationLogoSBBG {
+  position: relative;
+  color: lightgray;
+  font-size: 1.9em;
+  left: 8px;
+}
+
+#SBhomeRentP {
+  position: relative;
+  color: lightgrey;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  bottom: 33px;
+  left: 39px;
+}
+
+#SBhomeCityP {
+  position: relative;
+  color: lightgrey;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  bottom: 97px;
+  left: 39px;
+}
+
+#SBhomeNavbtn {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 3px 5px;
+  cursor: pointer;
+  border-radius: 6px;
+  bottom: 107px;
+  left: 178px;
+}

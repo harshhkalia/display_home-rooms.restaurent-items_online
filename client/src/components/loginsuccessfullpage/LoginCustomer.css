@@ -1,0 +1,122 @@
+#customerLoginPage {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: -1;
+}
+
+#detailsContainer {
+  position: relative;
+  width: 470px;
+  height: 305px;
+  background-color: aliceblue;
+  border: 0.5px solid black;
+  border-radius: 4px;
+  left: 269px;
+}
+
+#hotelImgContainer {
+  position: relative;
+  left: 10px;
+  width: 215px;
+  height: 250px;
+  top: 10px;
+  background-color: transparent;
+  border: 0.5px solid black;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#restaurentImgContainer {
+  position: relative;
+  left: 242px;
+  width: 215px;
+  height: 250px;
+  top: -240px;
+  background-color: transparent;
+  border-radius: 5px;
+  overflow: hidden;
+  border: 0.5px solid black;
+}
+
+#viewHotels {
+  position: relative;
+  padding: 6px 6px;
+  background-color: lightgoldenrodyellow;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 18px;
+  bottom: 235px;
+  width: 203px;
+}
+
+#viewRestaurents {
+  position: relative;
+  padding: 6px 6px;
+  background-color: lightgreen;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 46px;
+  width: 207px;
+  bottom: 235px;
+}
+
+#hotelImage {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#restaurentImage {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#numberCountContainer {
+  position: relative;
+  width: 447px;
+  height: 87px;
+  background-color: #ccc;
+  border: 0.5px solid black;
+  border-radius: 5px;
+  top: 226px;
+  right: 187px;
+}
+
+#numberCountHeading {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  left: 10px;
+  font-size: 0.9em;
+  color: black;
+  bottom: 14px;
+}
+
+#hotelCount {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  left: 30px;
+  bottom: 25px;
+  font-size: 1em;
+  color: black;
+}
+
+#restaurentCount {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  left: 30px;
+  bottom: 34px;
+  font-size: 1em;
+  color: black;
+}

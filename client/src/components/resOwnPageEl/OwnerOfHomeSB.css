@@ -1,0 +1,182 @@
+#OwnerHomeSBContainer {
+  position: relative;
+  width: 245px;
+  height: 814px;
+  bottom: 29px;
+  background-color: transparent;
+  border: 0.5px solid gray;
+}
+
+#OwnerHomeDataContainer {
+  position: relative;
+  left: 10px;
+  width: 221px;
+  height: 176px;
+  background-color: aliceblue;
+  border-radius: 7px;
+  top: 21px;
+  border: 0.5px solid lightgray;
+}
+
+#ownerHDUC {
+  position: relative;
+  background-color: #ddd;
+  width: 205px;
+  height: 60px;
+  border-radius: 4px;
+  left: 8px;
+  top: 8px;
+  border: 0.2px solid black;
+  cursor: pointer;
+}
+
+#locationLogoOHD {
+  position: relative;
+  font-size: 1.8em;
+  left: 8px;
+  top: -2px;
+}
+
+#streetNameContainer {
+  position: relative;
+  background-color: transparent;
+  width: 171px;
+  height: 23px;
+  left: 34px;
+  bottom: 39px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+#locationStreetName {
+  position: relative;
+  bottom: 52px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  left: 36px;
+}
+
+#locationCityName {
+  position: relative;
+  bottom: 78px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2em;
+  left: 36px;
+}
+
+#currentTime {
+  position: relative;
+  bottom: 95px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  left: 125px;
+}
+
+#ownerHDCSL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: gray;
+  top: 18px;
+}
+
+#ownerName {
+  position: relative;
+  left: 8px;
+  top: 2px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+#ownerNumber {
+  position: relative;
+  left: 8px;
+  top: -19px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+#ownerEmail {
+  position: relative;
+  left: 8px;
+  top: -40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+}
+
+#ownerMoreData {
+  position: relative;
+  left: 149px;
+  top: -45px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.8em;
+  cursor: pointer;
+}
+
+#ownerHDBL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  top: 53px;
+}
+
+#homePageButtonOH {
+  position: relative;
+  padding: 8px 81px;
+  background-color: lavender;
+  cursor: pointer;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  top: 110px;
+  border-radius: 6px;
+  left: 5px;
+}
+
+#personQueriesButtonOH {
+  position: relative;
+  padding: 8px 70px;
+  background-color: lemonchiffon;
+  cursor: pointer;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  top: 125px;
+  border-radius: 6px;
+  left: 5px;
+}
+
+#viewNotificationsOH {
+  position: relative;
+  padding: 8px 59px;
+  background-color: lavenderblush;
+  cursor: pointer;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  top: 140px;
+  border-radius: 6px;
+  left: 5px;
+}
+
+#viewandeditProfileButton {
+  position: relative;
+  padding: 8px 80px;
+  background-color: linen;
+  cursor: pointer;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  top: 155px;
+  border-radius: 6px;
+  left: 5px;
+}
+
+#ownerBLOC {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  top: 207px;
+}
+
+#ltoC {
+  position: relative;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  top: 192px;
+}

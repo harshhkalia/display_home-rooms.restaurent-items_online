@@ -1,0 +1,23 @@
+#homeBtnCustomer {
+  position: relative;
+  padding: 6px 6px;
+  background-color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  border-radius: 4px;
+  cursor: pointer;
+  bottom: 40px;
+  left: 1366px;
+}
+
+#logoutCustomer {
+  position: relative;
+  padding: 6px 6px;
+  background-color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  border-radius: 4px;
+  cursor: pointer;
+  bottom: 40px;
+  left: 1332px;
+}

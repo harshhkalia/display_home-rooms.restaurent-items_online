@@ -1,0 +1,135 @@
+#SBcontainer {
+  position: relative;
+  width: 245px;
+  height: 815px;
+  bottom: 1px;
+  background-color: transparent;
+  border: 0.5px solid gray;
+}
+
+#SBdataContainer {
+  position: relative;
+  width: 217px;
+  height: 151px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  border: 0.5px solid black;
+  left: 12px;
+  top: 130px;
+}
+
+#SBdataImg {
+  position: relative;
+  width: 90px;
+  height: 90px;
+  top: 8px;
+  left: 66px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 0.5px solid black;
+}
+
+#SBdataResName {
+  position: relative;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  bottom: 14px;
+  font-size: 1.1em;
+}
+
+#locationLogo {
+  position: relative;
+  margin-right: 6px;
+}
+
+#SBdataResLoc {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1em;
+  color: black;
+  text-align: center;
+  bottom: 35px;
+}
+
+#addItemsButton {
+  position: relative;
+  padding: 11px 91px;
+  background-color: black;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  top: 194px;
+}
+
+#editResProfileButton {
+  position: relative;
+  padding: 11px 88px;
+  background-color: black;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  top: 194px;
+}
+
+#manageCustomersOrders {
+  position: relative;
+  padding: 11px 76px;
+  background-color: black;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  top: 194px;
+}
+
+#restaurentNotifications {
+  position: relative;
+  padding: 11px 68px;
+  background-color: black;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  top: 194px;
+}
+
+#deleteResProfileButton {
+  position: relative;
+  padding: 11px 81px;
+  background-color: lightcoral;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  top: 229px;
+}
+
+#buttonsTopHeading {
+  position: relative;
+  font-size: 1.1em;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: black;
+  bottom: 57px;
+  left: 10px;
+}
+
+#irreversibleHeading {
+  position: relative;
+  font-size: 1.1em;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: black;
+  top: 95px;
+  left: 10px;
+}
+
+#copyrightsRestaurent {
+  position: relative;
+  font-size: 1.1em;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: black;
+  top: 172px;
+  /* left: 10px; */
+  text-align: center;
+}

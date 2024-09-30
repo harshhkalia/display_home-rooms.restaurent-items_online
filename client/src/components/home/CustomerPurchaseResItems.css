@@ -1,0 +1,2097 @@
+#noItemSelected {
+  position: relative;
+  width: 600px;
+  height: 500px;
+  background-color: transparent;
+  bottom: 680px;
+  left: 581px;
+}
+
+#noItemSelectedBL {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.2em;
+  text-align: center;
+  color: black;
+  top: 168px;
+}
+
+#itemSelectedCustomerTB {
+  position: relative;
+  width: 1290px;
+  height: 815px;
+  background-color: transparent;
+  bottom: 845px;
+  left: 246px;
+}
+
+#displaySelectedItemImages {
+  position: relative;
+  background-color: transparent;
+  width: 1290px;
+  height: 340px;
+}
+
+#fetchedSelectedItemImage {
+  position: relative;
+  width: 120px;
+  height: 200px;
+  object-fit: cover;
+  border: 0.5px solid black;
+  margin-left: 8px;
+  left: 149px;
+  top: 84px;
+  cursor: pointer;
+}
+
+#zoomImage {
+  position: relative;
+  padding: 6px 8px;
+  background-color: linen;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 4px;
+  top: 116px;
+  right: -49px;
+}
+
+#displaySelectedItemImagesHeading {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.4em;
+  color: black;
+  text-align: center;
+  bottom: 214px;
+}
+
+#BGselectedItemButtons {
+  position: relative;
+  width: auto;
+  height: 40px;
+  background-color: lightgray;
+  bottom: -55px;
+}
+
+#BGselectedItemL {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3em;
+  color: black;
+  left: 85px;
+  bottom: -9px;
+}
+
+#placeOrderBtn {
+  position: relative;
+  padding: 8px 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: lightgreen;
+  border-radius: 4px;
+  cursor: pointer;
+  bottom: 49px;
+  left: 832px;
+}
+
+#addItemToCart {
+  position: relative;
+  padding: 8px 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: lightgreen;
+  border-radius: 4px;
+  cursor: pointer;
+  bottom: 49px;
+  left: 865px;
+}
+
+#totalItemSale {
+  position: relative;
+  padding: 8px 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: lightgreen;
+  border-radius: 4px;
+  cursor: pointer;
+  bottom: 49px;
+  left: 891px;
+}
+
+#infoContainerSelectedItem {
+  position: relative;
+  background-color: aliceblue;
+  width: 383px;
+  height: 246px;
+  left: 125px;
+  bottom: -120px;
+  border-radius: 7px;
+  border: 0.6px solid black;
+}
+
+#selectedItemNameL {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 13px;
+  bottom: 10px;
+}
+
+#selectedItemPriceL {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 13px;
+  bottom: 23px;
+}
+
+#selectedItemQuantityL {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 13px;
+  bottom: 36px;
+}
+
+#selectedItemDescContainer {
+  position: relative;
+  width: 356px;
+  height: 140px;
+  background-color: azure;
+  border: 0.5px solid lightgray;
+  left: 12px;
+  bottom: 42px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  border-radius: 7px;
+}
+
+#selectedItemDescL {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 7px;
+  top: -7px;
+}
+
+#cusSelectedItemDI {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  bottom: 76px;
+  left: 274px;
+}
+
+#commentsNavContainerCus {
+  position: relative;
+  background-color: aliceblue;
+  width: 355px;
+  height: 210px;
+  left: 815px;
+  bottom: 132px;
+  border-radius: 7px;
+  border: 0.6px solid black;
+}
+
+#commentsCusP {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: black;
+  bottom: 140px;
+  left: 869px;
+}
+
+#SLCusPage {
+  position: relative;
+  width: 444px;
+  height: 1px;
+  background-color: black;
+  rotate: 90deg;
+  bottom: 233px;
+  left: 432px;
+}
+
+#closePurPageCus {
+  position: relative;
+  padding: 7px 7px;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  bottom: 271px;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  left: 621px;
+}
+
+#searchRestItem {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  bottom: 1404px;
+  left: 336px;
+  padding: 4px 40px;
+  border-radius: 5px;
+}
+
+#searchEnteredItem {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  bottom: 1403px;
+  left: 341px;
+  padding: 4px 40px;
+  border-radius: 4px;
+  background-color: bisque;
+  cursor: pointer;
+}
+
+#PMBG {
+  position: relative;
+  width: 350px;
+  height: 180px;
+  background-color: white;
+  border-radius: 4px;
+  left: 188px;
+}
+
+#POitemImage {
+  position: relative;
+  width: 144px;
+  height: 164px;
+  object-fit: cover;
+  left: 10px;
+  top: 8px;
+  cursor: pointer;
+  border-radius: 9px;
+}
+
+#customernameInput {
+  position: relative;
+  padding: 3px 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  left: 24px;
+  bottom: 134px;
+}
+
+#itemQuantityInput {
+  position: relative;
+  padding: 3px 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  left: 168px;
+  bottom: 163px;
+}
+
+#customerAddressInput {
+  position: relative;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  height: 49px;
+  width: 164px;
+  text-indent: 12px;
+  bottom: 92px;
+}
+
+#confirmOrder {
+  position: relative;
+  padding: 6px 13px;
+  background-color: lightgreen;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 6px;
+  left: 173px;
+  bottom: 93px;
+}
+
+#cancelOrder {
+  position: relative;
+  padding: 6px 13px;
+  background-color: lightgray;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 6px;
+  left: 189px;
+  bottom: 93px;
+}
+
+#custNumContainer {
+  position: relative;
+  width: 343px;
+  height: 87px;
+  background-color: white;
+  border-radius: 4px;
+  top: 167px;
+  right: 345px;
+  left: -157px;
+}
+
+#custNumHead {
+  position: relative;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  left: 8px;
+  bottom: 16px;
+}
+
+#customerNumberInput {
+  position: relative;
+  padding: 3px 81px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  left: 16px;
+  bottom: 32px;
+}
+
+#custNumContainerL {
+  position: relative;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 1.1em;
+  bottom: 42px;
+}
+
+#successModalBackground {
+  position: relative;
+  width: 300px;
+  height: 205px;
+  background-color: white;
+  border-radius: 4px;
+  left: 40px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+#SMUC {
+  position: relative;
+  width: 300px;
+  height: 91px;
+  left: -1px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  border: 0.4px solid black;
+}
+
+#successOrderPlacedImage {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  left: 15px;
+  position: relative;
+  bottom: 3px;
+}
+
+#successOrderDetailsContainer {
+  position: relative;
+  width: 131px;
+  height: 80px;
+  background-color: black;
+  border-radius: 4px;
+  bottom: 98px;
+  left: 147px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+#orderStatus {
+  position: relative;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 0.6em;
+  text-align: center;
+  color: white;
+  top: -1px;
+}
+
+#orderId {
+  position: relative;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 0.5em;
+  text-align: center;
+  color: white;
+  top: -4px;
+}
+
+#orderitemName {
+  position: relative;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 0.6em;
+  text-align: center;
+  color: white;
+  top: -7px;
+}
+
+#SMLC {
+  position: relative;
+  width: 300px;
+  height: 70px;
+  background-color: transparent;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#SMLCHeading {
+  position: relative;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: black;
+}
+
+#seeMyOrders {
+  position: relative;
+  padding: 6px 25px;
+  background-color: lightgoldenrodyellow;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  left: 33px;
+  top: 5px;
+}
+
+#continueResItems {
+  position: relative;
+  padding: 6px 25px;
+  background-color: lightcoral;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  left: 52px;
+  top: 5px;
+}
+
+#COMB {
+  position: relative;
+  width: 600px;
+  height: 500px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+#CPOMB {
+  position: relative;
+  width: auto;
+  height: 453px;
+  background-color: transparent;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#CCOMB {
+  position: relative;
+  width: auto;
+  height: 453px;
+  background-color: transparent;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#showCompletedOrdersCustomer {
+  position: relative;
+  padding: 5px 226px;
+  background-color: lightgoldenrodyellow;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 19px;
+  top: 10px;
+}
+
+#showPendingOrdersCustomer {
+  position: relative;
+  padding: 5px 234px;
+  background-color: lightgoldenrodyellow;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 19px;
+  top: 10px;
+}
+
+#penOrderBackground {
+  position: relative;
+  width: 560px;
+  height: 190px;
+  background-color: black;
+  border-radius: 5px;
+  left: 14px;
+  top: 17px;
+  margin-bottom: 17px;
+}
+
+#POcusImg {
+  position: relative;
+  width: 220px;
+  height: 169px;
+  object-fit: cover;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 0.1px solid lightgray;
+  left: 10px;
+  top: 8px;
+}
+
+#pendOrderDataContainer {
+  position: relative;
+  width: 303px;
+  height: 175px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  bottom: 183px;
+  left: 249px;
+}
+
+#POorderIdCus {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  font-size: 1em;
+  top: 3px;
+}
+
+#POcusnameCus {
+  position: relative;
+  text-align: center;
+  font-size: 1em;
+  color: black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  bottom: 11px;
+}
+
+#POitemnameCus {
+  position: relative;
+  text-align: center;
+  font-size: 1em;
+  color: black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  bottom: 28px;
+}
+
+#POitemquantityCus {
+  position: relative;
+  text-align: center;
+  font-size: 1em;
+  color: black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  bottom: 45px;
+}
+
+#POitempriceCus {
+  position: relative;
+  text-align: center;
+  font-size: 1em;
+  color: black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  bottom: 62px;
+}
+
+#POordertotalcost {
+  position: relative;
+  text-align: center;
+  font-size: 1em;
+  color: black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  bottom: 79px;
+}
+
+#POcusDA {
+  position: relative;
+  padding: 10px 7px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  background-color: lavenderblush;
+  cursor: pointer;
+  left: 10px;
+  bottom: 84px;
+}
+
+#POcusCancelBtn {
+  position: relative;
+  padding: 10px 7px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  background-color: lightgray;
+  cursor: pointer;
+  left: 55px;
+  bottom: 84px;
+}
+
+#clsCOmodal {
+  position: relative;
+  padding: 10px 185px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 4px;
+  left: 82px;
+  top: 55px;
+  background-color: lightgreen;
+}
+
+#customerAddressBackground {
+  position: relative;
+  width: 500px;
+  height: 361px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+#cusCAhead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 10px;
+  bottom: 13px;
+}
+
+#currentAddressContainer {
+  position: relative;
+  width: 474px;
+  height: 142px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  border: 0.5px solid lightgray;
+  left: 13px;
+  bottom: 26px;
+}
+
+#currentAddress {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2em;
+  color: black;
+  left: 10px;
+  bottom: 10px;
+}
+
+#CusDACL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  bottom: 7px;
+}
+
+#newAddressInput {
+  position: relative;
+  left: 10px;
+  width: 474px;
+  height: 89px;
+  border-radius: 4px;
+  text-indent: 6px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  top: 6px;
+}
+
+#updateAddressBtn {
+  position: relative;
+  padding: 7px 193px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  background-color: lightgray;
+  cursor: pointer;
+  left: 10px;
+  top: 15px;
+}
+
+#closeCusAddressModal {
+  position: relative;
+  padding: 2px 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  background-color: lightcoral;
+  border-radius: 4px;
+  cursor: pointer;
+  left: 440px;
+  top: -333px;
+}
+
+#DDofCusOrder {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  text-align: center;
+  color: black;
+  top: 20px;
+}
+
+#noCusPendOrderHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+  color: black;
+  top: 178px;
+}
+
+#compCusOrderbackground {
+  position: relative;
+  width: 560px;
+  height: 190px;
+  background-color: black;
+  border-radius: 5px;
+  left: 14px;
+  top: 17px;
+  margin-bottom: 17px;
+}
+
+#COcusImage {
+  position: relative;
+  width: 220px;
+  height: 169px;
+  object-fit: cover;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 0.1px solid lightgray;
+  left: 10px;
+  top: 8px;
+}
+
+#COcustContainer {
+  position: relative;
+  width: 303px;
+  height: 175px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  bottom: 183px;
+  left: 249px;
+}
+
+#navToReviews {
+  position: relative;
+  padding: 9px 91px;
+  background-color: linen;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 5px;
+  bottom: 85px;
+  left: 16px;
+}
+
+#delieveryDateCus {
+  position: relative;
+  font-size: 0.8em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  bottom: 95px;
+  left: 160px;
+}
+
+#noCompOrderCus {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.6em;
+  text-align: center;
+  color: black;
+  top: 160px;
+}
+
+#selectedOrderModal {
+  position: relative;
+  width: 580px;
+  height: 570px;
+  background-color: white;
+  border-radius: 4px;
+  left: 75px;
+}
+
+#orderDataContainer {
+  position: relative;
+  width: 526px;
+  height: 170px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  border: 0.5px solid lightgray;
+  left: 25px;
+  top: 25px;
+}
+
+#SOfetchedImage {
+  position: relative;
+  width: 220px;
+  height: 152px;
+  object-fit: cover;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 0.1px solid lightgray;
+  left: 35px;
+  top: -138px;
+}
+
+#orderDetailsContainer {
+  position: relative;
+  width: 270px;
+  height: 156px;
+  background-color: lavender;
+  border-radius: 4px;
+  bottom: 298px;
+  left: 273px;
+  border: 0.5px solid olive;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#selectedOrderItemName {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 12px;
+}
+
+#selectedOrderResName {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 30px;
+}
+
+#selectedOrderHead {
+  position: relative;
+  left: 7px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  bottom: 44px;
+}
+
+#SOCL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  bottom: 52px;
+}
+
+#SOcusRI {
+  position: relative;
+  left: 10px;
+  width: 227px;
+  height: 60px;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-indent: 10px;
+  bottom: 41px;
+}
+
+#addReviewBtn {
+  position: relative;
+  padding: 7px 20px;
+  background-color: lightgoldenrodyellow;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  bottom: 35px;
+  left: 13px;
+}
+
+#showMyReview {
+  position: relative;
+  padding: 7px 20px;
+  background-color: lightgrey;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  bottom: 35px;
+  left: 27px;
+}
+
+#clsCORcontainer {
+  position: relative;
+  padding: 7px 103px;
+  left: 7px;
+  background-color: floralwhite;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  bottom: 19px;
+}
+
+#SLSOR {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  bottom: 273px;
+}
+
+#otherUsersContainer {
+  position: relative;
+  width: auto;
+  height: 355px;
+  background-color: transparent;
+  bottom: 273px;
+}
+
+#otherUsersHead {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 15px;
+}
+
+#OURC {
+  position: relative;
+  left: 15px;
+  width: 551px;
+  height: 313px;
+  background-color: transparent;
+  overflow-x: hidden;
+  overflow-y: auto;
+  bottom: 30px;
+}
+
+#noOURfound {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2em;
+  text-align: center;
+  top: 97px;
+}
+
+#reviewDataBackground {
+  position: relative;
+  width: 535px;
+  height: 90px;
+  background-color: black;
+  border-radius: 5px;
+  left: 5px;
+  margin-bottom: 20px;
+}
+
+#PFPDefUser {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: white;
+  left: 10px;
+  top: 9px;
+}
+
+#defuserimg {
+  position: relative;
+  width: 100%;
+  cursor: pointer;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+#reviewUserFullName {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  font-size: 1.1em;
+  left: 67px;
+  bottom: 65px;
+}
+
+#reviewTextContainer {
+  position: relative;
+  width: 414px;
+  height: 35px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  bottom: 81px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  left: 66px;
+}
+
+#reviewTextData {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.7em;
+  bottom: 9px;
+  left: 5px;
+}
+
+#likeBtn {
+  position: relative;
+  font-size: 2em;
+  bottom: 124px;
+  color: white;
+  left: 492px;
+  cursor: pointer;
+}
+
+#likesCounterL {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.8em;
+  color: white;
+  bottom: 133px;
+  text-align: center;
+}
+
+#showOURcontainer {
+  position: relative;
+  padding: 7px 20px;
+  background-color: lightgoldenrodyellow;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  bottom: 35px;
+  left: 13px;
+}
+
+#showMRcontainer {
+  position: relative;
+  padding: 7px 20px;
+  background-color: lightgrey;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  bottom: 68px;
+  left: 142px;
+}
+
+#clsCORcontainerBtn {
+  position: relative;
+  padding: 11px 103px;
+  left: 7px;
+  background-color: floralwhite;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  bottom: 44px;
+}
+
+#MORcontainer {
+  position: relative;
+  width: auto;
+  height: 355px;
+  background-color: transparent;
+  bottom: 273px;
+}
+
+#MORcontHeading {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 15px;
+}
+
+#MORC {
+  position: relative;
+  left: 15px;
+  width: 551px;
+  height: 199px;
+  background-color: transparent;
+  overflow-x: hidden;
+  overflow-y: auto;
+  bottom: 30px;
+}
+
+#MRBC {
+  position: relative;
+  width: 535px;
+  height: 138px;
+  background-color: black;
+  border-radius: 5px;
+  left: 5px;
+  margin-bottom: 20px;
+}
+
+#reviewTxtContainer {
+  position: relative;
+  width: 414px;
+  height: 55px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  bottom: 64px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  left: 66px;
+}
+
+#reviewTD {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  bottom: 9px;
+  left: 5px;
+}
+
+#editReviewBtn {
+  position: relative;
+  padding: 6px 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: lightgoldenrodyellow;
+  bottom: 159px;
+  left: 488px;
+}
+
+#deleteReviewBtn {
+  position: relative;
+  padding: 6px 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 5px;
+  z-index: 100;
+  background-color: lightcoral;
+  bottom: 61px;
+  left: 446px;
+}
+
+#thumbsUpIcon {
+  position: relative;
+  margin-left: 4px;
+}
+
+#likescountFMR {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: white;
+  text-align: center;
+  bottom: 106px;
+}
+
+#editMyReviewModal {
+  position: relative;
+  width: 500px;
+  height: 314px;
+  background-color: white;
+  border-radius: 4px;
+  left: 60px;
+}
+
+#oldRHeading {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 14px;
+}
+
+#oldReviewContainer {
+  position: relative;
+  left: 10px;
+  width: 476px;
+  height: 100px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  bottom: 29px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  border: 0.5px solid black;
+}
+
+#oldReviewText {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 10px;
+}
+
+#SLECR {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: lightgrey;
+  bottom: 13px;
+}
+
+#editReviewTextContainer {
+  position: relative;
+  left: 10px;
+  width: 476px;
+  height: 100px;
+  background-color: #ddd;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  overflow-x: hidden;
+  overflow-y: auto;
+  border: 0.5px solid black;
+  text-indent: 8px;
+}
+
+#updateReviewBtn {
+  position: relative;
+  padding: 5px 66px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  bottom: -5px;
+  left: 10px;
+  background-color: lavender;
+}
+
+#cancelReviewBtn {
+  position: relative;
+  padding: 5px 66px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  bottom: -5px;
+  left: 49px;
+  background-color: lavenderblush;
+}
+
+#noMRDfound {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  text-align: center;
+  color: black;
+  top: 40px;
+}
+
+#imgRMBackground {
+  position: relative;
+  width: 500px;
+  height: 617px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+#imgRMHead {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 15px;
+}
+
+#imgRMnoteContainer {
+  position: relative;
+  left: 10px;
+  width: 480px;
+  height: 40px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  bottom: 31px;
+  border: 0.5px solid black;
+}
+
+#imgRMnote {
+  position: relative;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  bottom: 5px;
+}
+
+#imgNoteButton {
+  position: relative;
+  padding: 4px 6px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lavenderblush;
+  bottom: 2px;
+  left: 4px;
+}
+
+#imgContainerSecondHead {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 25px;
+}
+
+#imgCSL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  bottom: 15px;
+}
+
+#imgRMOPRC {
+  position: relative;
+  width: 480px;
+  height: 245px;
+  background-color: transparent;
+  border-radius: 4px;
+  left: 10px;
+  bottom: 39px;
+  border: 0.5px solid black;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#imgRDB {
+  position: relative;
+  width: 443px;
+  height: 107px;
+  background-color: black;
+  border-radius: 4px;
+  left: 12px;
+  top: 7px;
+  margin-bottom: 20px;
+}
+
+#imgRDBusername {
+  position: relative;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  left: 64px;
+  bottom: 66px;
+}
+
+#imgRDBreviewContainer {
+  position: relative;
+  width: 320px;
+  height: 48px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  left: 68px;
+  bottom: 80px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#imgRDBreview {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  bottom: 12px;
+  left: 5px;
+}
+
+#imgRDBlikes {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: white;
+  bottom: 91px;
+  text-align: center;
+}
+
+#likeBtnOUR {
+  position: relative;
+  font-size: 1.9em;
+  color: white;
+  bottom: 176px;
+  left: 400px;
+  cursor: pointer;
+}
+
+#imgRMEOP {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  bottom: 53px;
+  left: 14px;
+}
+
+#noReviewsFoundIMGRM {
+  position: relative;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  top: 71px;
+}
+
+#imgRMnewReviewContainer {
+  position: relative;
+  width: 480px;
+  height: 155px;
+  background-color: transparent;
+  border: 0.6px solid black;
+  border-radius: 4px;
+  left: 10px;
+  bottom: 68px;
+}
+
+#newReviewBackground {
+  position: relative;
+  width: 459px;
+  height: 91px;
+  background-color: black;
+  border-radius: 4px;
+  left: 10px;
+  bottom: -10px;
+}
+
+#newReviewCustomerName {
+  position: relative;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  left: 67px;
+  bottom: 66px;
+}
+
+#newReviewTextContainer {
+  position: relative;
+  width: 381px;
+  height: 49px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  bottom: 81px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  left: 66px;
+}
+
+#newReviewText {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  bottom: 12px;
+  left: 5px;
+}
+
+#exploreItemButton {
+  position: relative;
+  padding: 7px 187px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lavenderblush;
+  bottom: 56px;
+  left: 5px;
+}
+
+#closeIMGRM {
+  position: relative;
+  padding: 8px 223px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lightgoldenrodyellow;
+  bottom: 51px;
+  left: 10px;
+}
+
+#itemAddedToCartBackground {
+  position: relative;
+  width: 400px;
+  height: 221px;
+  background-color: white;
+  border-radius: 5px;
+  left: 25px;
+}
+
+#ATCitemImage {
+  position: relative;
+  width: 170px;
+  height: 200px;
+  object-fit: cover;
+  left: 10px;
+  top: 8px;
+  cursor: pointer;
+  border-radius: 9px;
+}
+
+#ATCitemDetailsContainer {
+  position: relative;
+  width: 192px;
+  height: 200px;
+  background-color: aliceblue;
+  border-radius: 5px;
+  border: 0.5px solid black;
+  bottom: 196px;
+  left: 195px;
+}
+
+#ATCContainerHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  text-align: center;
+  bottom: 10px;
+}
+
+#ATCitemAddToCart {
+  position: relative;
+  padding: 8px 49px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lavenderblush;
+  left: 10px;
+}
+
+#ATCitemBuyNow {
+  position: relative;
+  padding: 8px 58px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lemonchiffon;
+  left: 10px;
+  top: 13px;
+}
+
+#ATCCL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  top: 31px;
+}
+
+#ATCitemClose {
+  position: relative;
+  padding: 6px 68px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lightgray;
+  left: 10px;
+  bottom: -39px;
+}
+
+#itemAddedSuccessfullyBackground {
+  position: relative;
+  width: 400px;
+  height: 173px;
+  background-color: white;
+  border-radius: 5px;
+  left: 28px;
+}
+
+#itemAddedSuccessfullyContainer {
+  position: relative;
+  width: 379px;
+  height: 110px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  border: 0.5px solid black;
+  left: 10px;
+  top: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#itemAddedSuccessfullyText {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  text-align: center;
+  bottom: 10px;
+}
+
+#goToCartBtn {
+  position: relative;
+  left: 10px;
+  padding: 8px 53px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: linen;
+  top: 20px;
+}
+
+#continueShoppingBtn {
+  position: relative;
+  left: 27px;
+  padding: 8px 40px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lemonchiffon;
+  top: 20px;
+}
+
+#cartModalBackground {
+  position: relative;
+  width: 420px;
+  height: 529px;
+  background-color: white;
+  border-radius: 5px;
+  left: 37px;
+}
+
+#cartModalHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.5em;
+  color: black;
+  text-align: center;
+  bottom: 22px;
+}
+
+#cartModalItemsContainer {
+  position: relative;
+  width: 394px;
+  height: 430px;
+  background-color: transparent;
+  border-radius: 4px;
+  border: 0.5px solid black;
+  left: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  bottom: 42px;
+}
+
+#closeCartModal {
+  position: relative;
+  padding: 8px 173px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: silver;
+  left: 19px;
+  bottom: 28px;
+}
+
+#cartItemBackground {
+  position: relative;
+  width: 357px;
+  height: 175px;
+  background-color: black;
+  border-radius: 4px;
+  left: 10px;
+  top: 10px;
+  margin-bottom: 15px;
+}
+
+#cartItemImage {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 0.5px solid lightgray;
+  cursor: pointer;
+  left: 10px;
+  top: 10px;
+}
+
+#cartItemDetailsContainer {
+  position: relative;
+  width: 203px;
+  height: 159px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  border: 0.5px solid black;
+  left: 145px;
+  top: -119px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#cartItemName {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 6px;
+  bottom: 14px;
+}
+
+#cartItemPrice {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 6px;
+  bottom: 33px;
+}
+
+#abtItemHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 11px;
+  bottom: 48px;
+}
+
+#abtItemContainer {
+  position: relative;
+  width: 166px;
+  height: 50px;
+  background-color: #ccc;
+  border-radius: 4px;
+  border: 0.5px solid black;
+  left: 11px;
+  top: -62px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#abtItemText {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.8em;
+  color: black;
+  left: 9px;
+  bottom: 13px;
+}
+
+#placeOrderButton {
+  position: relative;
+  padding: 8px 43px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: linen;
+  left: 18px;
+  top: -20px;
+}
+
+#removeItemFromCart {
+  position: relative;
+  padding: 5px 16px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lightgray;
+  left: 18px;
+  top: -147px;
+}
+
+#cartInsideHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 18px;
+  top: -104px;
+}
+
+#noItemsInCart {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.4em;
+  color: black;
+  text-align: center;
+  top: 145px;
+}
+
+#noNewReviewFoundIMGRM {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  text-align: center;
+  top: 50px;
+}
+
+#confirmOrderModalBackground {
+  position: relative;
+  width: 400px;
+  height: 279px;
+  background-color: white;
+  border-radius: 5px;
+  left: 55px;
+}
+
+#confirmOrderItemImage {
+  position: relative;
+  width: 170px;
+  height: 217px;
+  object-fit: cover;
+  border-radius: 5px;
+  left: 10px;
+  top: 10px;
+  border: 0.6px solid black;
+}
+
+#confirmOrderCustomerName {
+  position: relative;
+  padding: 3px 6px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 23px;
+  top: -180px;
+  border-radius: 6px;
+  text-indent: 7px;
+}
+
+#confirmOrderCustomerNumber {
+  position: relative;
+  padding: 3px 6px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 195px;
+  top: -167px;
+  border-radius: 6px;
+  text-indent: 7px;
+}
+
+#confirmOrderItemQuantity {
+  position: relative;
+  padding: 3px 6px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 0px;
+  top: -123px;
+  border-radius: 6px;
+  text-indent: 7px;
+}
+
+#confirmOrderCustomerAddress {
+  position: relative;
+  padding: 18px 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 195px;
+  top: -109px;
+  border-radius: 6px;
+  text-indent: 7px;
+}
+
+#confirmOrderBtn {
+  position: relative;
+  padding: 7px 55px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: linen;
+  left: 1px;
+  top: -80px;
+}
+
+#closeConfirmOrderModal {
+  position: relative;
+  padding: 7px 55px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lightgray;
+  left: 23px;
+  top: -112px;
+}
+
+#displayImageContainerBackground {
+  position: relative;
+  width: 700px;
+  height: 531px;
+  background-color: white;
+  border-radius: 5px;
+
+  border-radius: 5px;
+}
+
+#displayImageContainerImage {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#closeDisplayImageContainer {
+  position: relative;
+  padding: 12px 65px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 54px;
+  cursor: pointer;
+  background-color: lightgoldenrodyellow;
+  left: 289px;
+  top: 20px;
+}
+
+#notificationModalBackground {
+  position: relative;
+  width: 550px;
+  height: 550px;
+  background-color: white;
+  border-radius: 5px;
+  left: 18px;
+}
+
+#notificationModalHead {
+  position: relative;
+  left: 10px;
+  color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  bottom: 15px;
+}
+
+#notificationContainer {
+  position: relative;
+  width: 548px;
+  height: 459px;
+  background-color: transparent;
+  left: 0px;
+  top: -28px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#closeNotificationModal {
+  position: relative;
+  left: 8px;
+  padding: 7px 210px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lightgray;
+  top: -13px;
+}
+
+#cusNotificationBG {
+  position: relative;
+  width: 512px;
+  height: 100px;
+  background-color: black;
+  border-radius: 5px;
+  left: 10px;
+  margin-bottom: 15px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#cusNotificationText {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: white;
+  left: 16px;
+  bottom: -11px;
+}
+
+#deleteNotificationBtn {
+  position: relative;
+  padding: 5px 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lightgray;
+  left: 10px;
+  top: 7px;
+  margin-bottom: 13px;
+}
+
+#cusNotificationViewOrder {
+  position: relative;
+  padding: 5px 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lightgoldenrodyellow;
+  left: 35px;
+  top: 7px;
+  margin-bottom: 13px;
+}
+
+#cusCompletedOrderBtn {
+  position: relative;
+  padding: 5px 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lavender;
+  left: 35px;
+  top: 7px;
+  margin-bottom: 13px;
+}
+
+#cusUpdatedOrderAddress {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: white;
+  left: 254px;
+  bottom: 35px;
+}
+
+#viewCusCartBtn {
+  position: relative;
+  padding: 5px 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lavenderblush;
+  left: 35px;
+  top: 7px;
+  margin-bottom: 13px;
+}
+
+#cusCartOrderConfirmedBtn {
+  position: relative;
+  padding: 5px 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: aliceblue;
+  left: 35px;
+  top: 7px;
+  margin-bottom: 13px;
+}
+
+#cusProfileUpdatedBtn {
+  position: relative;
+  padding: 5px 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: lightyellow;
+  left: 35px;
+  top: 7px;
+  margin-bottom: 13px;
+}
+
+#cusNotificationHead {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: white;
+  bottom: 110px;
+}
+
+#cusNotificationHeadSO {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: white;
+  bottom: 132px;
+}
+
+#cusNotificationHeadST {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: white;
+  bottom: 147px;
+}

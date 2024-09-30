@@ -1,0 +1,670 @@
+#homePageContentContainer {
+  position: relative;
+  width: 1290px;
+  height: 814px;
+  background-color: transparent;
+  bottom: 861px;
+  left: 246px;
+}
+
+#homePageSBCHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  top: 208px;
+  right: 147px;
+}
+
+#homePageMainFirstContainer {
+  position: relative;
+  width: 545px;
+  height: 290px;
+  background-color: transparent;
+  left: 30px;
+  bottom: -37px;
+  border-radius: 6px;
+  border: 0.6px solid black;
+}
+
+#streetheadMC {
+  position: relative;
+  left: 8px;
+  bottom: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+#cityHeadMC {
+  position: relative;
+  left: 8px;
+  bottom: 35px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+#zipcodeHeadMC {
+  position: relative;
+  left: 8px;
+  bottom: 55px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+#priceperRoomMC {
+  position: relative;
+  left: 8px;
+  bottom: 75px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+#noOfRoomsMC {
+  position: relative;
+  left: 8px;
+  bottom: 95px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+#SLHC {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: gray;
+  bottom: 103px;
+}
+
+#descheadMc {
+  position: relative;
+  left: 8px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  bottom: 119px;
+}
+
+#descriptionContainer {
+  position: relative;
+  left: 10px;
+  background-color: aliceblue;
+  border: 0.5px solid lightgray;
+  width: 523px;
+  height: 84px;
+  border-radius: 4px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  bottom: 132px;
+}
+
+#descriptionText {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  bottom: 13px;
+  left: 8px;
+}
+
+#openMyEmail {
+  position: relative;
+  padding: 7px 209px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  bottom: 120px;
+  left: 10px;
+  background-color: lightgray;
+}
+
+#homePageMainImageContainer {
+  position: relative;
+  width: 545px;
+  height: 359px;
+  background-color: transparent;
+  left: 650px;
+  bottom: 308px;
+  border-radius: 6px;
+  border: 0.6px solid black;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+#HPHOimges {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  cursor: pointer;
+  object-fit: cover;
+}
+
+#homePageSLOC {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  bottom: 267px;
+}
+
+#homepageHeadFirst {
+  position: relative;
+  left: 19px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  bottom: 679px;
+}
+
+#homePageheadBelow {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  left: 10px;
+  bottom: 324px;
+}
+
+#homePageCommentsContainer {
+  position: relative;
+  width: 1255px;
+  height: 330px;
+  background-color: transparent;
+  bottom: 338px;
+  left: 17px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#noCommentsFounded {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2em;
+  text-align: center;
+  top: 100px;
+}
+
+#editProfileModal {
+  position: relative;
+  width: 470px;
+  height: 635px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+#newStreetInputBox {
+  position: relative;
+  left: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  padding: 7px 154px;
+  top: 9px;
+}
+
+#newCityInputBox {
+  position: relative;
+  left: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  padding: 7px 154px;
+  top: 24px;
+}
+
+#newZipCodeInputBox {
+  position: relative;
+  left: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  padding: 7px 154px;
+  top: 39px;
+}
+
+#newPriceOfRoomsInputBox {
+  position: relative;
+  left: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  padding: 7px 154px;
+  top: 54px;
+}
+
+#newAvailRoomsInput {
+  position: relative;
+  left: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  padding: 7px 154px;
+  top: 69px;
+}
+
+#newPersonName {
+  position: relative;
+  left: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  padding: 7px 154px;
+  top: 84px;
+}
+
+#newPersonNumber {
+  position: relative;
+  left: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  padding: 7px 154px;
+  top: 99px;
+}
+
+#newPersonEmail {
+  position: relative;
+  left: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  padding: 7px 154px;
+  top: 114px;
+}
+
+#newDescriptionInputBox {
+  position: relative;
+  left: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  width: 449px;
+  height: 125px;
+  top: 129px;
+  text-indent: 9px;
+}
+
+.image-upload-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.image-upload-label-second {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+  height: 42px;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  cursor: pointer;
+  transition: background-color 0.3s, border-color 0.3s;
+  border: 0.5px solid gray;
+  position: relative;
+  top: 141px;
+  left: 14px;
+}
+
+.image-upload-label-second:hover {
+  background-color: #e9ecef;
+  border-color: black;
+}
+
+.image-upload-input {
+  display: none;
+}
+
+.upload-icon {
+  font-size: 24px;
+}
+
+#saveMyHomeData {
+  position: relative;
+  padding: 11px 63px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  background-color: lavenderblush;
+  cursor: pointer;
+  top: 100px;
+  left: 241px;
+}
+
+#closeandexitBtnHOB {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 9px 184px;
+  background-color: lightgray;
+  right: -8px;
+  top: 114px;
+}
+
+#displayQueriesModal {
+  position: relative;
+  width: 500px;
+  height: 495px;
+  background-color: white;
+  border-radius: 7px;
+  left: 18px;
+}
+
+#DQhead {
+  position: relative;
+  left: 8px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  bottom: 14px;
+}
+
+#clsDQmodal {
+  position: relative;
+  padding: 8px 198px;
+  left: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: lightgray;
+  top: 395px;
+}
+
+#queriesContainer {
+  position: relative;
+  width: 500px;
+  height: 408px;
+  background-color: transparent;
+  overflow-y: auto;
+  overflow-x: hidden;
+  bottom: 61px;
+}
+
+#noQFFH {
+  position: relative;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  top: 155px;
+  font-size: 1.1em;
+}
+
+#queryBackground {
+  position: relative;
+  left: 10px;
+  background-color: black;
+  border-radius: 5px;
+  width: 464px;
+  height: 138px;
+  margin-bottom: 17px;
+  bottom: 13px;
+}
+
+#querySenderName {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  left: 8px;
+  color: lightgray;
+  top: 2px;
+}
+
+#queryUserTxtContainer {
+  position: relative;
+  left: 11px;
+  width: 452px;
+  height: 66px;
+  background-color: transparent;
+  overflow-y: auto;
+  overflow-x: hidden;
+  bottom: 12px;
+}
+
+#queryResponseInput {
+  position: relative;
+  padding: 6px 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  left: 255px;
+  top: -3px;
+}
+
+#sendQueryResponseBtn {
+  position: relative;
+  padding: 6px 6px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  left: 259px;
+  top: -2px;
+  background-color: lightgoldenrodyellow;
+  cursor: pointer;
+}
+
+#queryUserTxt {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: lightgray;
+  bottom: 14px;
+}
+
+#resQueryP {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: lightgray;
+  bottom: 8px;
+  left: 331px;
+  cursor: pointer;
+}
+
+#commentAuthUserLinksBtn {
+  position: relative;
+  bottom: 52px;
+  padding: 5px 23px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  left: 1083px;
+  background-color: lavender;
+}
+
+#commenterDataModalBackground {
+  position: relative;
+  width: 700px;
+  height: 374px;
+  background-color: white;
+  border-radius: 5px;
+  left: 31px;
+}
+
+#commenterDataContainer {
+  position: relative;
+  width: 700px;
+  height: 440px;
+  background-color: transparent;
+}
+
+#closeCDCcontainer {
+  position: absolute;
+  left: 8px;
+  padding: 8px 292px;
+  background-color: lightgray;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  top: 319px;
+}
+
+#commenterDataContainerFirstP {
+  position: relative;
+  left: 8px;
+  bottom: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+#commenterContainerOfComment {
+  position: relative;
+  width: 676px;
+  height: 213px;
+  background-color: black;
+  border-radius: 5px;
+  left: 11px;
+  bottom: 31px;
+}
+
+#CCOCfirstHead {
+  position: relative;
+  left: 8px;
+  color: lightgray;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  top: 1px;
+}
+
+#CCOCtextContainer {
+  position: relative;
+  left: 8px;
+  width: 659px;
+  height: 90px;
+  background-color: transparent;
+  overflow-y: auto;
+  overflow-x: hidden;
+  bottom: 12px;
+}
+
+#CCOCsecondHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  left: 8px;
+  bottom: 26px;
+  color: lightgray;
+}
+
+#CCOCtextP {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: lightgray;
+  bottom: 12px;
+  left: 4px;
+}
+
+#selectedCommentLinks {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: lightgray;
+  bottom: 43px;
+  right: 14px;
+}
+
+#noBulletLists {
+  list-style: none;
+}
+
+#commentContainerMDP {
+  position: relative;
+  left: 8px;
+  bottom: 44px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+#DeleteSelectedComment {
+  position: absolute;
+  padding: 9px 262px;
+  left: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: lightcoral;
+  top: 264px;
+}
+
+#noLinksIncludedByUONS {
+  position: relative;
+  text-align: center;
+  color: lightgray;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  top: -8px;
+  font-size: 1.2em;
+}
+
+#notificationMHead {
+  position: relative;
+  left: 8px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 15px;
+}
+
+#notificationsContainerOfHO {
+  position: relative;
+  width: 550px;
+  height: 468px;
+  background-color: transparent;
+  overflow-y: auto;
+  overflow-x: hidden;
+  bottom: 29px;
+}
+
+#clsNMOHO {
+  position: absolute;
+  padding: 7px 208px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
+  left: 10px;
+  background-color: lightgray;
+  bottom: 9px;
+}
+
+#notificationBGHO {
+  position: relative;
+  width: 517px;
+  height: 112px;
+  background-color: black;
+  border-radius: 5px;
+  left: 12px;
+  top: -14px;
+  margin-bottom: 14px;
+}
+
+#notificationHOhead {
+  position: relative;
+  left: 8px;
+  color: lightgray;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  top: 1px;
+}
+
+#notificationHOtextContainer {
+  position: relative;
+  left: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: 504px;
+  height: 54px;
+  background-color: transparent;
+  bottom: 14px;
+}
+
+#deleteNotificationOHBtn {
+  position: relative;
+  padding: 2px 7px;
+  background-color: lightcoral;
+  border-radius: 5px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  z-index: 100;
+  left: 475px;
+  bottom: 9px;
+}
+
+#notificationHOtext {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: lightgray;
+  bottom: 12px;
+  left: 4px;
+}
+
+#notificationGOTHO {
+  position: relative;
+  left: 8px;
+  bottom: 44px;
+  color: lightgray;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+}

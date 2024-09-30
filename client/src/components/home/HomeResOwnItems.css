@@ -1,0 +1,1050 @@
+#noItemChoosedTB {
+  position: relative;
+  width: 600px;
+  height: 500px;
+  background-color: transparent;
+  bottom: 680px;
+  left: 581px;
+}
+
+#noItemTBL {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.2em;
+  text-align: center;
+  color: black;
+  top: 168px;
+  left: 130px;
+}
+
+#itemSelectedTB {
+  position: relative;
+  width: 1290px;
+  height: 815px;
+  background-color: transparent;
+  bottom: 845px;
+  left: 246px;
+}
+
+#displayItemImagesContainer {
+  position: relative;
+  background-color: transparent;
+  width: 1290px;
+  height: 425px;
+}
+
+#SLDdisplayItemImages {
+  position: relative;
+  width: auto;
+  height: 1.2px;
+  background-color: black;
+}
+
+#fetchedResItemImage {
+  position: relative;
+  width: 190px;
+  height: 323px;
+  object-fit: cover;
+  border: 0.5px solid black;
+  margin-left: 35px;
+  left: 52px;
+  top: 50px;
+  cursor: pointer;
+}
+
+#displayImagesHeading {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.4em;
+  color: black;
+  text-align: center;
+  bottom: 65px;
+}
+
+#selectedItemDL {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3em;
+  color: black;
+  left: 85px;
+  bottom: -9px;
+}
+
+#selectedItemDLContainer {
+  position: relative;
+  width: auto;
+  height: 40px;
+  background-color: lightgray;
+  bottom: 86px;
+}
+
+#manageSelectedItem {
+  position: relative;
+  padding: 8px 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: lightgreen;
+  border-radius: 4px;
+  cursor: pointer;
+  bottom: 49px;
+  left: 832px;
+}
+
+#remainingSIOrders {
+  position: relative;
+  padding: 8px 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: lightgreen;
+  border-radius: 4px;
+  cursor: pointer;
+  bottom: 49px;
+  left: 865px;
+}
+
+#selectedItemInsight {
+  position: relative;
+  padding: 8px 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: lightgreen;
+  border-radius: 4px;
+  cursor: pointer;
+  bottom: 49px;
+  left: 891px;
+}
+
+#displayItemInfoContainer {
+  position: relative;
+  background-color: aliceblue;
+  width: 383px;
+  height: 246px;
+  left: 125px;
+  bottom: 44px;
+  border-radius: 7px;
+  border: 0.6px solid black;
+}
+
+#selectedItemName {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 13px;
+  bottom: 10px;
+}
+
+#selectedItemPrice {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 13px;
+  bottom: 23px;
+}
+
+#selectedItemQuantity {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 13px;
+  bottom: 36px;
+}
+
+#selectedItemDescriptionContainer {
+  position: relative;
+  width: 356px;
+  height: 140px;
+  background-color: azure;
+  border: 0.5px solid lightgray;
+  left: 12px;
+  bottom: 42px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  border-radius: 7px;
+}
+
+#selectedItemDescription {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 7px;
+  top: 8px;
+}
+
+#selectedItemDI {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  bottom: 76px;
+  left: 274px;
+}
+
+#selectedItemAddedTime {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: black;
+  font-size: 1.5em;
+  bottom: 310px;
+  left: 433px;
+}
+
+#selectedItemDate {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: black;
+  font-size: 1.5em;
+  bottom: 310px;
+  left: 433px;
+}
+
+#displayCommentsOfItemContainer {
+  position: relative;
+  background-color: aliceblue;
+  width: 355px;
+  height: 210px;
+  left: 733px;
+  bottom: 286px;
+  border-radius: 7px;
+  border: 0.6px solid black;
+}
+
+#displayCommentsHeading {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: black;
+  bottom: 296px;
+  left: 792px;
+}
+
+#commentsBGImage {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 7px;
+  filter: saturate(0);
+}
+
+#SLItemPage {
+  position: relative;
+  width: 362px;
+  height: 1px;
+  background-color: black;
+  rotate: 90deg;
+  bottom: 415px;
+  left: 428px;
+}
+
+#commentsBGImage:hover {
+  filter: saturate(1);
+  cursor: pointer;
+}
+
+#deselectItemSelected {
+  position: relative;
+  padding: 7px 7px;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  bottom: 453px;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  left: 577px;
+}
+
+#manageItemModal {
+  position: relative;
+  width: 375px;
+  height: 195px;
+  background-color: white;
+  border-radius: 4px;
+  left: 56px;
+}
+
+#selectedSubItemImage {
+  position: relative;
+  width: 153px;
+  height: 179px;
+  object-fit: cover;
+  left: 10px;
+  top: 8px;
+  cursor: pointer;
+  border-radius: 9px;
+}
+
+#selectedSubitemInfoContainer {
+  position: relative;
+  width: 179px;
+  height: 178px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  border: 0.5px solid lightgray;
+  bottom: 175px;
+  left: 184px;
+}
+
+#selectedSubitemHead {
+  position: relative;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: black;
+  font-size: 0.8em;
+  bottom: 7px;
+}
+
+#editSelectedItemBtn {
+  position: relative;
+  padding: 6px 46px;
+  background-color: lightgoldenrodyellow;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 15px;
+  bottom: 9px;
+}
+
+#deleteSelectedItemBtn {
+  position: relative;
+  padding: 6px 39px;
+  background-color: lightcoral;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 15px;
+  bottom: -3px;
+}
+
+#closeSSIContainer {
+  position: relative;
+  padding: 3px 10px;
+  background-color: white;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 110px;
+  bottom: -28px;
+}
+
+#editSelectedItemModal {
+  position: relative;
+  width: 340px;
+  height: 270px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+#editselectedItemHead {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  text-align: center;
+  bottom: 17px;
+}
+
+#newItemName {
+  position: relative;
+  padding: 3px 86px;
+  left: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  bottom: 34px;
+}
+
+#newItemPrice {
+  position: relative;
+  padding: 3px 86px;
+  left: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  bottom: 22px;
+}
+
+#newItemQuantity {
+  position: relative;
+  padding: 3px 86px;
+  left: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4px;
+  bottom: 10px;
+}
+
+#newItemDescription {
+  position: relative;
+  left: 10px;
+  width: 313px;
+  height: 70px;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-indent: 16px;
+}
+
+#saveNewInfoBtn {
+  position: relative;
+  padding: 7px 42px;
+  background-color: lightgoldenrodyellow;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 7px;
+  cursor: pointer;
+  left: 33px;
+  top: 5px;
+}
+
+#cancelNewInfoBtn {
+  position: relative;
+  padding: 7px 42px;
+  background-color: lightgrey;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 7px;
+  cursor: pointer;
+  left: 71px;
+  top: 5px;
+}
+
+#noteContainerEditInfo {
+  position: relative;
+  width: 340px;
+  height: 130px;
+  background-color: white;
+  border-radius: 4px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  top: 30px;
+}
+
+#noteCH {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 8px;
+  top: -10px;
+}
+
+#editModalHeadingFirst {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  left: 10px;
+  color: black;
+  bottom: 26px;
+}
+
+#editModalHeadingSecond {
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.1em;
+  left: 10px;
+  color: black;
+  bottom: 16px;
+}
+
+#remainingOrdersModal {
+  position: relative;
+  width: 410px;
+  height: 490px;
+  background-color: white;
+  border-radius: 4px;
+  left: 29px;
+}
+
+#remainingOrdersContainer {
+  position: relative;
+  left: 10px;
+  top: 10px;
+  width: 390px;
+  height: 425px;
+  background-color: transparent;
+  border-radius: 4px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#closeRemainingOrdersModal {
+  position: relative;
+  padding: 7px 173px;
+  background-color: lavender;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 7px;
+  cursor: pointer;
+  left: 15px;
+  top: 23px;
+}
+
+#RObackground {
+  position: relative;
+  width: 359px;
+  height: 230px;
+  background-color: black;
+  border-radius: 6px;
+  left: 3px;
+  top: 3px;
+  margin-bottom: 17px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: flex;
+}
+
+#ROitemImage {
+  position: relative;
+  width: 144px;
+  height: 214px;
+  object-fit: cover;
+  border-radius: 6px;
+  left: 8px;
+  top: 8px;
+}
+
+#otherRODetailsContainer {
+  position: relative;
+  width: 189px;
+  height: 211px;
+  background-color: transparent;
+  left: 16px;
+  top: 7px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#ROitemDetailsContainer {
+  position: relative;
+  width: 160px;
+  height: 86px;
+  background-color: aliceblue;
+  left: 4px;
+  top: 20px;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+#ROIDHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: white;
+  left: 8px;
+  bottom: 105px;
+}
+
+#ROitemName {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 7px;
+  bottom: 15px;
+}
+
+#ROitemPrice {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 7px;
+  bottom: 33px;
+}
+
+#ROitemQuantity {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 7px;
+  bottom: 51px;
+}
+
+#ROitemTotalPrice {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 7px;
+  bottom: 69px;
+}
+
+#ROCDHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: white;
+  left: 7px;
+  bottom: 32px;
+}
+
+#ROcustomerDetailsContainer {
+  position: relative;
+  width: 160px;
+  height: 130px;
+  background-color: aliceblue;
+  left: 4px;
+  top: -45px;
+  overflow-y: auto;
+  border-radius: 6px;
+  overflow-x: hidden;
+}
+
+#ROcustomerIcon {
+  position: relative;
+  margin-right: 6px;
+}
+
+#ROcustomerName {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 7px;
+  bottom: 15px;
+}
+
+#ROcustomerPhone {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 7px;
+  bottom: 30px;
+}
+
+#ROcustomerAddressHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  left: 13px;
+  bottom: 43px;
+}
+
+#ROcustomerAddressContainer {
+  position: relative;
+  width: 129px;
+  height: 118px;
+  background-color: lightgray;
+  left: 8px;
+  top: -56px;
+  border-radius: 6px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#ROcustomerAddress {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: black;
+  left: 2px;
+  bottom: 15px;
+}
+
+#noMoreDetails {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.8em;
+  color: black;
+  left: 9px;
+  bottom: 45px;
+}
+
+#ROConfirmOrderBtn {
+  position: relative;
+  padding: 14px 38px;
+  background-color: lavenderblush;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 7px;
+  cursor: pointer;
+  left: 4px;
+  top: -21px;
+}
+
+#noRemainingOrderFound {
+  position: relative;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.2em;
+  color: black;
+  text-align: center;
+  top: 174px;
+}
+
+#allReviewsModal {
+  position: relative;
+  width: 425px;
+  height: 405px;
+  background-color: white;
+  border-radius: 4px;
+  left: 17px;
+}
+
+#allReviewsModalHead {
+  position: relative;
+  left: 8px;
+  top: -14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+}
+
+#allReviewsContainer {
+  position: relative;
+  width: 412px;
+  height: 320px;
+  background-color: transparent;
+  left: 8px;
+  top: -32px;
+  border-radius: 4px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#otherResItemsHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 8px;
+  top: -47px;
+}
+
+#otherResItemsContainer {
+  position: relative;
+  width: 407px;
+  height: 150px;
+  background-color: #ccc;
+  left: 8px;
+  top: -64px;
+  border-radius: 4px;
+  overflow-y: hidden;
+  overflow-x: auto;
+  display: flex;
+}
+
+#clsARCBtn {
+  position: relative;
+  padding: 8px 185px;
+  background-color: lightcoral;
+  border-radius: 8px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 11px;
+  top: -20px;
+}
+
+#reviewBC {
+  position: relative;
+  width: 362px;
+  height: 125px;
+  background-color: black;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  left: 7px;
+  top: 3px;
+}
+
+#ARUPFPD {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  background-color: white;
+  border-radius: 50%;
+  left: 9px;
+  top: 6px;
+}
+
+#reviewProfileDP {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+#reviewUserName {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: white;
+  left: 75px;
+  top: -75px;
+}
+
+#RTContainer {
+  position: relative;
+  width: 278px;
+  height: 56px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  bottom: 91px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  left: 75px;
+}
+
+#RTdata {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.7em;
+  left: 4px;
+  bottom: 8px;
+}
+
+#reviewLC {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  left: 19px;
+  bottom: 120px;
+  color: white;
+}
+
+#showOrderBtn {
+  position: relative;
+  padding: 5px 94px;
+  background-color: lightgoldenrodyellow;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 80px;
+  bottom: 132px;
+}
+
+#previewOrderModal {
+  position: relative;
+  width: 400px;
+  height: 451px;
+  background-color: white;
+  border-radius: 4px;
+  left: 22px;
+}
+
+#previewOrderURHead {
+  position: relative;
+  left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  bottom: 16px;
+}
+
+#URcontainer {
+  position: relative;
+  width: 380px;
+  height: 125px;
+  background-color: #ccc;
+  border-radius: 4px;
+  left: 10px;
+  top: -32px;
+}
+
+#UDPFPC {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  background-color: white;
+  border-radius: 50%;
+  left: 6px;
+  top: 5px;
+}
+
+#USRCusName {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2em;
+  color: black;
+  left: 88px;
+  top: -98px;
+}
+
+#USRDC {
+  position: relative;
+  width: 273px;
+  height: 68px;
+  background-color: aliceblue;
+  left: 93px;
+  top: -114px;
+  border-radius: 6px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#USRT {
+  position: relative;
+  left: 8px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  bottom: 10px;
+}
+
+#USRlikes {
+  position: relative;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: black;
+  bottom: 124px;
+  right: 10px;
+}
+
+#PMCL {
+  position: relative;
+  width: auto;
+  height: 1px;
+  background-color: black;
+  bottom: 15px;
+}
+
+#PMbelowHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 10px;
+  bottom: 32px;
+}
+
+#PMODC {
+  position: relative;
+  width: 380px;
+  height: 187px;
+  background-color: aliceblue;
+  border-radius: 4px;
+  left: 10px;
+  top: -47px;
+  border: 0.6px solid black;
+}
+
+#PMcustname {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 6px;
+  top: -16px;
+}
+
+#PMcustnum {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 6px;
+  top: -34px;
+}
+
+#PMcusTotalPrice {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 6px;
+  top: -52px;
+}
+
+#PMCusAddC {
+  position: relative;
+  width: 370px;
+  height: 77px;
+  background-color: black;
+  border-radius: 4px;
+  left: 6px;
+  top: -64px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#PMcusAdd {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: white;
+  left: 6px;
+  top: -15px;
+}
+
+#PMcusAddHead {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  color: black;
+  left: 8px;
+  top: -79px;
+}
+
+#clsPMcontainer {
+  position: relative;
+  padding: 10px 176px;
+  background-color: lightcoral;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 6px;
+  top: -34px;
+  border-radius: 8px;
+}
+
+#noRFOAI {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.3em;
+  color: black;
+  text-align: center;
+  top: 103px;
+}
+
+#NSIBC {
+  position: relative;
+  width: 160px;
+  height: 129px;
+  background-color: black;
+  border-radius: 4px;
+  margin-right: 14px;
+  left: 10px;
+  top: 10px;
+}
+
+#NSIBCimage {
+  position: relative;
+  width: 142px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 4px;
+  left: 8px;
+  top: 8px;
+  border: 0.5px solid beige;
+  cursor: pointer;
+}
+
+#NSIBCname {
+  position: relative;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.9em;
+  color: white;
+  text-align: center;
+  top: -7px;
+}
+
+#NSIBCviewBtn {
+  position: relative;
+  padding: 1px 35px;
+  background-color: lavenderblush;
+  border-radius: 4px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: pointer;
+  left: 5px;
+  bottom: 22px;
+}
